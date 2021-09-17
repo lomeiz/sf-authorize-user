@@ -1,7 +1,7 @@
 {
   "name": "lomeiz/sf-authorize-user",
   "description": "Authorization plugin for ID Provider app",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "typee": "symfony-bundle",
   "license": "proprietary",
   "authors": [
